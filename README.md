@@ -49,9 +49,11 @@
 
 通信方式： RESTful API + JSON                      | 前后端分离标准方式，结构清晰、扩展性强  
 
-部署环境： Tomcat                                  | 与 Servlet/JSP 高度兼容，配置简单
+部署环境： Tomcat 11.0.3                                  | 与 Servlet/JSP 高度兼容，配置简单
 
 工具链： Git + GitHub                              | 管理团队协作、版本控制、开发流程
+
+编辑器： Jetbrain IDEA + JDK 17                             | 编辑器基础设置
 
 ---
 
